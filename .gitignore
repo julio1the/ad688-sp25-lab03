@@ -206,14 +206,13 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Exclude dataset
+# Exclude raw dataset
 lightcast_data.zip
-lightcast_job_postings.csv
 lightcast_data.csv
 
-# Exclude processed outputs (not required in GitHub)
+# Exclude processed outputs
 _output/
 
-# Python cache / virtualenv
+# Python cache / venv
 __pycache__/
 .venv/
